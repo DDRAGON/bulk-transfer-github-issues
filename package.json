@@ -23,5 +23,8 @@
   "homepage": "https://github.com/arunnalla/bulk-transfer-github-issues#readme",
   "volta": {
     "node": "18.13.0"
+  },
+  "dependencies": {
+    "octokit": "^2.0.14"
   }
 }
