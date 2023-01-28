@@ -73,7 +73,6 @@ const getIssueIds = async () => {
 const GET_DESTINATION_REPO_ID_QUERY = `query ($owner: String!, $name: String!) {
   repository(owner: $owner, name: $name) {
     id,
-    name
   }
 }`;
 
