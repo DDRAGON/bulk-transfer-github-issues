@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/arunnalla/bulk-transfer-github-issues/issues"
   },
-  "homepage": "https://github.com/arunnalla/bulk-transfer-github-issues#readme"
+  "homepage": "https://github.com/arunnalla/bulk-transfer-github-issues#readme",
+  "volta": {
+    "node": "18.13.0"
+  }
 }
