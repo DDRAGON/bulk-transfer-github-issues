@@ -1,0 +1,24 @@
+{
+  "name": "bulk-transfer-github-issues",
+  "version": "1.0.0",
+  "description": "Command line tool to transfer issues from one repo to another on GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunnalla/bulk-transfer-github-issues.git"
+  },
+  "keywords": [
+    "github-issues-transfer",
+    "issues",
+    "github"
+  ],
+  "author": "Arun Nalla <hello@arunnalla.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunnalla/bulk-transfer-github-issues/issues"
+  },
+  "homepage": "https://github.com/arunnalla/bulk-transfer-github-issues#readme"
+}
